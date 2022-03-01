@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Debojyoti Singha [@debojyoti452](https://github.com/debojyoti452/SwingTechnologies452)
-- 👀 I’m interested in research and develoy a new technology in the filed of Science and Technology, Which help the individual person and business to thrive
-- 🌱 I’m currently learning socio-economic impact of technology on developing country. 
 - 💞️ I’m looking to collaborate on Mobile Application Development
 - 📫 How to reach me? say Hi @ debojyoti452@gmail.com
 
