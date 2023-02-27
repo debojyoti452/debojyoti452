@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [OneStore](https://github.com/debojyoti452/onestore-app)
 
-- 🌱 I’m currently learning **iOS Swift UI**
+- 🌱 I’m currently learning **iOS Swift UI** && **C++ Compiler Design**
 
 - 👨‍💻 All of my projects are available at [https://opensource.appworld.in/](https://opensource.appworld.in/)
 
