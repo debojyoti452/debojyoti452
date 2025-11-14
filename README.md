@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debojyoti452&label=Profile%20views&color=0e75b6&style=flat" alt="debojyoti452" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debojyoti452" alt="debojyoti452" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/debojyotising13" target="blank"><img src="https://img.shields.io/twitter/follow/debojyotising13?logo=twitter&style=for-the-badge" alt="debojyotising13" /></a> </p>
 
 - 🔭 I’m currently working on [MoveIt - File Transfer On Go](https://github.com/debojyoti452/move_it_file_transfer)
