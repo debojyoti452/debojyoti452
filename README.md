@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/debojyotising13" target="blank"><img src="https://img.shields.io/twitter/follow/debojyotising13?logo=twitter&style=for-the-badge" alt="debojyotising13" /></a> </p>
 
-- 🔭 I’m currently working on [MoveIt - File Transfer On Go](https://github.com/debojyoti452/move_it_file_transfer)
+- 🔭 I’m currently working on [Keplars](https://keplars.com)
 
-- 🌱 I’m currently learning **Rust** && **C++ Compiler Design**
-
-- 👨‍💻 All of my projects are available at [https://opensource.appworld.in/](https://opensource.appworld.in/)
-
-- 💬 Ask me about **flutter, android native, kotlin, laravel, CI-CD, docker, etc**
-
-- 📫 How to reach me **debojyoti@swingtechnologies.in**
+- 📫 How to reach me **deb@keplars.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
