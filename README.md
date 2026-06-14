@@ -20,7 +20,7 @@
 
 ### What I'm building
 
-**[Keplars](https://keplars.com)** — an email platform for developers. Transactional and marketing email, with better delivery visibility and simpler setup than the incumbents.
+**[Keplars](https://keplars.com)** - an email platform for developers. Transactional and marketing email, with better delivery visibility and simpler setup than the incumbents.
 
 ---
 
