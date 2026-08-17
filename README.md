@@ -20,12 +20,14 @@
 
 ### What I'm building
 
-**[Keplars](https://keplars.com)** - an email platform for developers. Transactional and marketing email, with better delivery visibility and simpler setup than the incumbents.
+- **[Keplars](https://keplars.com)** - an email platform for developers. Transactional and marketing email, with better delivery visibility and simpler setup than the incumbents.
+- **[Pluto](https://dev.to/debojyoti452/why-i-built-pluto-the-internal-email-validation-engine-behind-keplars-5h6k)** - Email Validation tool, that checks DNS and Domain Reputations.
+- **[Neptune App](https://github.com/debojyoti452/neptune-chat)** - P2P chat with backend in elixir, works without internet, chat that is safe in your device.
 
 ---
 
 ### Stack
 
-TypeScript · Go · Node.js · Elixir · PostgreSQL · Redis · Docker · AWS
+Android · Flutter · iOS · Swift · Kotlin · TypeScript · Go · Node.js · Elixir · PostgreSQL · Redis · Docker · AWS
 
 ---
