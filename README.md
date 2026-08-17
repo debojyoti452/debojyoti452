@@ -1,6 +1,6 @@
 <h1 align="center">Debojyoti Singha</h1>
 <p align="center">
-  Founder @ <a href="https://keplars.com">Keplars</a> &nbsp;·&nbsp; Full-Stack Engineer
+  Builder @ <a href="https://keplars.com">Keplars</a> &nbsp;·&nbsp; Full-Stack Engineer
 </p>
 
 <p align="center">
